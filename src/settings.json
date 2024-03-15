@@ -1,0 +1,8 @@
+{
+    "region": "eu",
+    "stateInterval": 30,
+    "twitchReqDelay": 3.5,
+    "ran": true,
+    "skipTeamPlayers": false,
+    "skipPartyPlayers": true
+}
