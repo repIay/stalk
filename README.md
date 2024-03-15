@@ -1,5 +1,5 @@
 
-find the real username behind any in-game player:
+find the real username behind any in-game player ヾ(・ω・*)
 
 enjoy the streamsniping and freelo 
 
@@ -17,5 +17,6 @@ settings.json:
 
 - ---------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------------------- -------------------------------------------------------------------
 
-- use @ your own risk. with all programs like thi, there is no guarantee that it's safe because using the VALORANT API in this manner is against riot's terms of service. no suspensions have been reported so far from using this program. with all things considered, i would use this only on an alt account if you don't want to risk the API abuse account suspension on your main, albeit unlikely.
+- use @ your own risk. with all programs like this, there is no guarantee that it's safe because using the VALORANT API in this manner is against riot's terms of service. no suspensions have been reported so far from using this program. with all things considered, i would use this only on an alt account if you don't want to risk the API abuse account suspension on your main, albeit unlikely. ヾ(・ω・*)
+
 
