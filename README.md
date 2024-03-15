@@ -15,5 +15,7 @@ settings.json:
 
 - skipPartyPlayers: boolean. decide whether or not you want to skip party members during the process of checking possible twitch names.
 
+- ---------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------------------- -------------------------------------------------------------------
+
 - use @ your own risk. with all programs like thi, there is no guarantee that it's safe because using the VALORANT API in this manner is against riot's terms of service. no suspensions have been reported so far from using this program. with all things considered, i would use this only on an alt account if you don't want to risk the API abuse account suspension on your main, albeit unlikely.
 
