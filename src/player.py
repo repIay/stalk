@@ -1,7 +1,7 @@
 import requests, time
 
 agentMap = {
-    "add6443a-41bd-e414-f6ad-e58d267f4e95": "Jett",
+   "add6443a-41bd-e414-f6ad-e58d267f4e95": "Jett",
     "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc": "Reyna",
     "f94c3b30-42be-e959-889c-5aa313dba261": "Raze",
     "7f94d92c-4234-0a36-9646-3a87eb8b5c89": "Yoru",
@@ -23,7 +23,8 @@ agentMap = {
     "95b78ed7-4637-86d9-7e41-71ba8c293152": "Harbor",
     "e370fa57-4757-3604-3648-499e1f642d3f": "Gekko",
     "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235": "Deadlock",
-    "0e38b510-41a8-5780-5e8f-568b2a4f2d6c": "Iso"
+    "0e38b510-41a8-5780-5e8f-568b2a4f2d6c": "Iso",
+    "1dbf2edd-4729-0984-3115-daa5eed44993": "Clove"
 
 }
 
