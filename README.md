@@ -1,3 +1,5 @@
+doesnt have new agents cuz im lazy to update and dont use anymore sry ):
+
 (DM ME FOR HELP OR INSTRUCTIONS ON DISCORD @AZUROH) ^_^
 
 find the real username behind any in-game player ヾ(・ω・*)
